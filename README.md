@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Apache Kafka-231F20?logo=Apache Kafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/NGINX-009639?logo=NGINX&logoColor=white"/>
   <br/>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/ESLint-4B32C3?logo=ESLint&logoColor=white"/>
   <img src="https://img.shields.io/badge/Socket.io-010101?logo=Socket.io&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white"/>
