@@ -1,6 +1,7 @@
 ## Hi there! 👋 
 
-- :black_nib: [goo-gy's Blog](https://goo-gy.github.io/)
+- :black_nib: [blog: goo-gy](https://goo-gy.github.io/)
+- :black_nib: [velog: goo-gy](https://velog.io/@goo-gy)
 
 ## Tech stack
 <p align="center">
